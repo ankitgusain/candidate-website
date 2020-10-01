@@ -5,7 +5,7 @@ https://alisonhartson.com, https://votesarahsmith.com, https://ocasio2018.com, h
 
 ## Running Locally
 
-You must have Elixir 1.5+ installed (1.6 would be great for auto-formatting).
+You must have Elixir 1.9+ installed (1.11 would be great for auto-formatting and In Elixir v1.11, the compiler also tracks structs and maps fields across a function body.).
 
 To do that, visit https://elixir-lang.org/install.html and follow the instructions
 for your operating system.
